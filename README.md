@@ -2,7 +2,7 @@
 
 These files were first locally and some were worked as part of a private repo with a test folder, and moving them to their own repo lost commit info.
 
-Documentation was limited to coding comments as asked, in retrospect it is really hard to remember what challenges I had.
+Documentation was limited to coding comments as asked, in retrospect it is really hard to remember what challenges I faced so not optimal documentation.
 
 <details>
 <summary>Project_1 requirements</summary>
